@@ -1,6 +1,6 @@
 
-#Act7: Vehicule
-###Exercice
+# Act7: Vehicule
+### Exercice
 ![image](https://github.com/mnsdali/cpp-basics-zero2hero/assets/91077017/3adf9cda-c31d-40e4-93f1-629a2134d07c)
 ![image](https://github.com/mnsdali/cpp-basics-zero2hero/assets/91077017/0b02afe6-69c2-4a1a-9f0b-018c3437819f)
 ![image](https://github.com/mnsdali/cpp-basics-zero2hero/assets/91077017/af5a5728-27e4-4221-87ca-80fd4fb6b344)
@@ -27,8 +27,8 @@ int main()
 }
 ```
 
-#Act8: TasksQueue
-###Exercice
+# Act8: TasksQueue
+### Exercice
 ```
 Nous souhaitons modéliser la gestion des files de tâches dans un système donné. Pour ce faire, nous
 considèrerons tout d’abord les constituants d’une queue (les tâches), puis créerons la structure d'une 
