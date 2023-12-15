@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1701714747 source:c:\users\user\onedrive\bureau\languages for programming\gi3\cpp\act7\vehicule\src\vehicule.cpp
+	"Vehicule.h"
+	<string>
+
+1701713150 c:\users\user\onedrive\bureau\languages for programming\gi3\cpp\act7\vehicule\include\vehicule.h
+	<string>
+	<iostream>
+
+1701973697 source:c:\users\user\onedrive\bureau\languages for programming\gi3\cpp\act7\vehicule\src\avion.cpp
+	"Avion.h"
+	"Vehicule.h"
+	<string>
+	<iostream>
+
+1701973617 c:\users\user\onedrive\bureau\languages for programming\gi3\cpp\act7\vehicule\include\avion.h
+	"Vehicule.h"
+
+1701973398 source:c:\users\user\onedrive\bureau\languages for programming\gi3\cpp\act7\vehicule\src\voiture.cpp
+	"Voiture.h"
+	"Vehicule.h"
+	<string>
+	<iostream>
+
+1701971437 c:\users\user\onedrive\bureau\languages for programming\gi3\cpp\act7\vehicule\include\voiture.h
+	"Vehicule.h"
+
+1701713481 source:c:\users\user\onedrive\bureau\languages for programming\gi3\cpp\act7\vehicule\main.cpp
+	<iostream>
+	<vector>
+	"Voiture.h"
+	"Avion.h"
+	<string>
+

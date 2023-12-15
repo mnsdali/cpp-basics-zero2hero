@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1701976274 source:c:\users\user\onedrive\bureau\languages for programming\gi3\cpp\act8\taskandtaskqueue\src\task.cpp
+	"Task.h"
+	<string>
+
+1701721253 c:\users\user\onedrive\bureau\languages for programming\gi3\cpp\act8\taskandtaskqueue\include\task.h
+	<string>
+
+1701975163 source:c:\users\user\onedrive\bureau\languages for programming\gi3\cpp\act8\taskandtaskqueue\main.cpp
+	<iostream>
+	"Task.h"
+	"TaskQueue.h"
+
+1701977516 c:\users\user\onedrive\bureau\languages for programming\gi3\cpp\act8\taskandtaskqueue\include\taskqueue.h
+	"Task.h"
+	<vector>
+	<iostream>
+
+1701978414 source:c:\users\user\onedrive\bureau\languages for programming\gi3\cpp\act8\taskandtaskqueue\src\taskqueue.cpp
+	"TaskQueue.h"
+	<iostream>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1696847965 source:c:\users\user\onedrive\bureau\languages for programming\gi3\cpp\act5\article.cpp
+
+1696848587 source:c:\users\user\onedrive\bureau\languages for programming\gi3\cpp\act5\main.cpp
+	<iostream>
+	<vector>
+	<string>
+
+1696848625 source:c:\users\user\onedrive\bureau\languages for programming\gi3\cpp\act5\src\article.cpp
+
+1696847979 c:\users\user\onedrive\bureau\languages for programming\gi3\cpp\act5\include\article.h
+
